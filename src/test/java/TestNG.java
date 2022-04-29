@@ -48,6 +48,32 @@ public class TestNG {
 		System.out.println("Test 01");
 
 	}
+	@Test
+	private void test06() {
+		System.out.println("Test 01");
+
+	}
+	@Test
+	private void test07() {
+		System.out.println("Test 01");
+
+	}
+	@Test
+	private void test08() {
+		System.out.println("Test 01");
+
+	}
+	@Test
+	private void test09() {
+		System.out.println("Test 01");
+
+	}
+	@Test
+	private void test010() {
+		System.out.println("Test 01");
+
+	}
+
 	@AfterSuite
 	private void afterSuite() {
 		System.out.println("After Suite");
